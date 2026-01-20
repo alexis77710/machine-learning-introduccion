@@ -1,0 +1,2 @@
+Este archivo está oculto en la carpeta res.
+Hola mundo.
